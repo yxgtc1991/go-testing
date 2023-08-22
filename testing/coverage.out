@@ -1,0 +1,4 @@
+mode: set
+demo/go-testing/testing/int_min.go:3.27,4.11 1 1
+demo/go-testing/testing/int_min.go:4.11,6.3 1 1
+demo/go-testing/testing/int_min.go:7.2,7.10 1 1
