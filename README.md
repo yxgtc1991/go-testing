@@ -1,2 +1,2 @@
 # go-testing
-go 测试解析
+Go 测试解析
