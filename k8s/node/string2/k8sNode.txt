@@ -1,0 +1,14 @@
+hbxy-psc-s1x1-spod2-pm-os01-mysql-es01
+hbxy-psc-s1x1-spod2-pm-os01-mysql-es02
+hbxy-psc-s1x1-spod2-pm-os01-mysql-es03
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s01
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s02
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s03
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s04
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s05
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s06
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s07
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s08
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s09
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s10
+hbxy-psc-s1x1-spod2-pm-os01-mysql-k8s11
